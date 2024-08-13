@@ -1,3 +1,9 @@
 h1 {
 color: aquam;
 }
+p {
+color: blueviolet;
+font-size: 25px;
+font-weight: 700;
+text-decoration: underline;
+}
